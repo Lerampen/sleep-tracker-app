@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sleep Tracker App</string>
+    <string name="update_sleep">Update Sleep</string>
+    <string name="add_sleep">Add Sleep</string>
+</resources>
